@@ -3,4 +3,4 @@ This repository provides models and scripts for running ptychographic imaging in
 
 
 ## How To Utilize This Repository
-To clone this repository, you will need git-lfs (https://git-lfs.com/)
+The scans used for training can be found at the following link (https://anl.box.com/s/q328xdll5wmcrayvey5vlebg13hs4qwf)
